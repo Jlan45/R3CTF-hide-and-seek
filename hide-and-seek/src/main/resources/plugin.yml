@@ -1,0 +1,9 @@
+name: hide-and-seek
+version: '${project.version}'
+main: r3ctf.minecraft.Hide_and_seek
+api-version: '1.19'
+authors: [J1an]
+commands:
+  newtp:
+    description: new TP command
+    usage: /newtp
